@@ -1,0 +1,15 @@
+{
+  "application": {
+    "baseUri": "/phalcon4-project/",
+    "viewsDir": "deneme"
+  },
+  "database": {
+    "adapter": "mysql",
+    "host": "localhost",
+    "username": "root",
+    "password": "SeHo8961",
+    "dbname": "ticket_db",
+    "charset": "utf8",
+    "port": "3306"
+  }
+}

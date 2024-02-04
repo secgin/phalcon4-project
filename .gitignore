@@ -1,0 +1,6 @@
+.DS_Store
+.idea/*
+.phalcon
+composer.lock
+vendor/
+.env
